@@ -72,3 +72,4 @@ for (i = 0; i < 21; i += 3) // Ciclo per calcolare la temperatura dei 7 giorni
 }
     stampaTabella(settimana);
     return 0;
+}

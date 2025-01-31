@@ -8,7 +8,8 @@ Per installare il software sarà necessario seguire i seguenti passaggi:
 
 1. Scaricare il file release.zip che si trovala nelle releases di GitHub.
 
-![image](https://github.com/user-attachments/assets/34815d3f-60dc-444c-97df-32803624b573)
+![image](https://github.com/user-attachments/assets/b8996c5c-a963-4ff6-8bbe-0cdfde0b4dec)
+
 
 2. Estrarre il contenuto del file .zip.
 
